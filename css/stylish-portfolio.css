@@ -230,6 +230,10 @@ hr.small {
     .map {
         height: 75%;
     }
+
+    .text-vertical-center h1 {
+        font-size: 3.5em;
+    }
 }
 
 .map iframe {
